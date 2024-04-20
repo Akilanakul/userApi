@@ -20,7 +20,7 @@ git clone https://github.com/Akilanakul/userApi.git
 Change directory to the project folder and install dependencies:
 
 ```bash
-cd yourprojectname
+cd .\userApi\user-register-api
 npm install  # Installs dependencies
 npm run build  # Builds the project
 ```
