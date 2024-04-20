@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yourprojectname.git
+git clone https://github.com/Akilanakul/userApi.git
 ```
 
 ## Setup
