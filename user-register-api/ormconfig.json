@@ -1,0 +1,9 @@
+{
+    "type": "sqlite",
+    "database": ":memory:",
+    "dropSchema": true,
+    "entities": ["src/entity/**/*.ts"],
+    "synchronize": true,
+    "logging": false
+  }
+  
