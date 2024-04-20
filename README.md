@@ -4,7 +4,7 @@ This User Registration API provides functionalities to create a new user and ret
 #Prerequisites
 Before you begin, ensure you have the following installed:
 
-Node.js (Download from Node.js official website)
+Node.js (Download from Node.js official website),
 npm (Comes with Node.js)
 
 #Clone the repository:
