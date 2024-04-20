@@ -1,4 +1,4 @@
-# userApi
+# User Api
 This User Registration API provides functionalities to create a new user and retrieve users by their last name. It uses Node.js, TypeScript, and TypeORM with SQLite as an in-memory database.
 
 #Prerequisites
